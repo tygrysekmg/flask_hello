@@ -1,4 +1,5 @@
-# flask_hello
+# flask_helloa
+follow image 1.png and watch on instructions
 on linux
 export FLASK_APP=hello.py
 flask run
